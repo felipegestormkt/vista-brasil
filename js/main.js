@@ -260,7 +260,7 @@
       category: 'decorado',
       title: 'Living Integrado com Vista para a Lagoa',
       tag: 'Apartamento Decorado',
-      img: 'assets/images/mpxe9ns5-image-3-scaled.webp'
+      img: 'assets/images/refugio_apartamento_living_hd.jpg'
     },
     {
       category: 'decorado',
@@ -296,7 +296,7 @@
       category: 'praia',
       title: 'Praia Privativa de Areia Branca',
       tag: 'Exclusividade Única no Brasil',
-      img: 'assets/images/mpxe9nsr-5-1-jpg.webp'
+      img: 'assets/images/hero_brasil_beach_hd.jpg'
     },
     {
       category: 'praia',
