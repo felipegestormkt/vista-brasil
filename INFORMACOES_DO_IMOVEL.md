@@ -15,7 +15,7 @@
 ## 2. Conceito & Diferenciais Exclusivos
 - **Praia Privativa Crystal Lagoons:**
   - Primeira e única lagoa de águas cristalinas Crystal Lagoons do Brasil.
-  - Água 100% própria para banho e esportes náuticos (como caiaque e stand-up paddle).
+  - Água 100% própria para banho, pedalinho, caiaque e prancha de stand-up paddle (sem esportes a motor para total segurança).
   - Praias privativas de areia branca e coqueiros.
   - Tecnologia com baixo custo de manutenção mundial (74 lagoas já entregues no mundo).
   - Mais de 300 publicações na imprensa internacional (BBC, CNN, National Geographic).
@@ -34,9 +34,13 @@
 ---
 
 ## 3. Tipologias & Especificações dos Apartamentos
-- **Metragens Privativas:** 100 m² a 183 m²
-- **Dormitórios:** 3 a 4 quartos com suítes privativas.
-- **Vagas de Garagem:** 2 a 3 vagas de garagem por apartamento.
+- **Metragens Privativas:** 100 m² a 181 m²
+- **Distribuição de Quartos e Suítes (Não possui 4 quartos):**
+  - **100 m²:** 01 suíte + 01 quarto
+  - **113 m²:** 01 suíte + 02 quartos
+  - **143 m²:** 03 suítes privativas
+  - **181 m²:** 03 suítes privativas
+- **Vagas de Garagem:** 02 vagas de garagem cobertas por apartamento.
 - **Living Integrado:** Sala ampla integrada com varanda gourmet e vista frontal deslumbrante para a praia e lagoa Crystal Lagoons.
 - **Acabamentos:** Porcelanatos nobres, esquadrias com alto isolamento acústico e térmico, infraestrutura completa para automação e climatização.
 
@@ -61,7 +65,7 @@ Todas as imagens originais em alta resolução foram capturadas e organizadas na
 5. `mpxe9nsc-Suite_Master_Pos.png` – Suíte Master decorada (luxo e sofisticação).
 6. `mpxe9ns7-Hall_extendida.png` – Hall social de entrada monumental da torre Vista.
 7. `mpxe9nsc-Gourmet_Externo-jpg.webp` – Espaço gourmet externo com churrasqueira (Steak House).
-8. `mpxe9nsq-1-jpg.webp` – Prática de esportes náuticos (Stand-up Paddle) na lagoa.
+8. `mpxe9nsq-1-jpg.webp` – Prática de stand-up paddle e caiaque na praia Crystal Lagoons.
 9. `mpxe9nsp-10-jpg.webp` – Águas cristalinas e seguras para crianças e famílias.
 10. `mpxe9nsq-8-jpg.webp` – Família desfrutando da praia privativa.
 11. `mpxe9nss-mapa-final-brasil-beach-jpg.webp` – Mapa esquemático de localização em Cuiabá.

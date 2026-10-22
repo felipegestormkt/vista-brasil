@@ -282,7 +282,7 @@
     },
     {
       category: 'lazer',
-      title: 'Stand-up Paddle e Esportes Náuticos',
+      title: 'Stand-up Paddle e Caiaque na Praia',
       tag: 'Crystal Lagoons',
       img: 'assets/images/mpxe9nsq-1-jpg.webp'
     },
